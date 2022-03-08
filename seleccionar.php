@@ -12,4 +12,4 @@ if (mysqli_num_rows($resultado) >0){
 	}
 }
 
-?>
+?>|
