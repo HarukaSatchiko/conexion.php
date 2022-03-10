@@ -15,5 +15,3 @@ echo "<br>";
 echo $papaya->get_nombre();
 echo "<br>";
 echo $freijoa->get_nombre();
-echo "<br>";
-?>
